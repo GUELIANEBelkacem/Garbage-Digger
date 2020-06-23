@@ -6,7 +6,10 @@ GarbageDigger est l'executable du jeu
 
 **important**
 
-des libréries externes sont utilisé
+
+des librÃ©ries externes sont utilisÃ©
 pour compiler le code 
 1) il faut ajouter ce qui est dans Libs\jars au "build path"
 2) if faut ajouter le native au jar lwjgl (il existe 4 version du native dans Libs\lwjgl\native pour windows, mac, linux et meme solaris)
+
+works with JDK 11 or above
